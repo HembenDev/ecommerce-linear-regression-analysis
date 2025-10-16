@@ -19,8 +19,8 @@ A **scatter plot** of predicted vs. actual values indicated strong model perform
 ### 🧩 Tech Stack
 
 * **Python**
-* **Pandas, NumPy**
-* **Matplotlib, Seaborn**
+* **Pandas, NumPy, Stats**
+* **Matplotlib, Seaborn, Scipy, Math**
 * **Scikit-learn**
 
 ### 📊 Insights
